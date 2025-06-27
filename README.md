@@ -11,4 +11,4 @@ A website for a local cycle shop
 
 4.Run the index.html file
 
-Note you can use it and modify however you want :) 
+Note: You can use it and modify however you want :) 
